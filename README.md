@@ -6,7 +6,7 @@ The Chocolate Company Dashboard provides an in-depth analysis of sales performan
 
 
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
-]( 
+](https://github.com/riyareddy07/Chocolate-Company-Dashboard/blob/main/1.png)
 
 ![![image](https://user-images.githubusercontent.com/97775044/215146486-101d3195-4313-4c29-b88e-b8758d513911.png)
 ](https://github.com/riyareddy07/Chocolate-Company-Dashboard/blob/main/report%20-3.png)
